@@ -1,8 +1,6 @@
 # PyTutor
 
 PyTutor is a chat bot, which renders information about the programming language python.
-It's initial phase of UI has been done here.
-It was my UI intern project in imorph.
 
 Desktop view
 
