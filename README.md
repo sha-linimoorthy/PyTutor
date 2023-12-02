@@ -1,6 +1,6 @@
 # PyTutor
 
-PyTutor is a chat bot, which renders information about the programming language python.
+PyTutor is a chat bot, which renders information about the programming language python. 
 
 
 Desktop view
