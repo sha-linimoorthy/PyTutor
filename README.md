@@ -2,7 +2,6 @@
 
 PyTutor is a chat bot, which renders information about the programming language python. 
 
-
 Desktop view
 
 ![image](https://user-images.githubusercontent.com/109151905/229736878-959ef3aa-f392-4bef-8031-cd6ce1ea0153.png)
